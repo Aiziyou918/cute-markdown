@@ -236,7 +236,7 @@ A: 是的，清除浏览器缓存/本地存储会删除自动保存的内容。�
 ## 🔗 相关链接
 
 - 🌐 **在线演示**: [https://james-blog.top/cutemd/](https://james-blog.top/cutemd/)
-- 📦 **GitHub 仓库**: [https://github.com/your-username/cuteMD](https://github.com/your-username/cuteMD)
+- 📦 **GitHub 仓库**: [https://github.com/Aiziyou918/cute-markdown](https://github.com/Aiziyou918/cute-markdown)
 - 📖 **快捷键文档**: [SHORTCUTS.md](SHORTCUTS.md)
 
 ---
