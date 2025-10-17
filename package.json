@@ -1,0 +1,27 @@
+{
+  "name": "cutemd",
+  "version": "1.0.0",
+  "description": "一款简洁优雅的在线 Markdown 编辑器，集成多种 AI 提供商支持",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "markdown",
+    "editor",
+    "vditor",
+    "ai",
+    "markdown-editor",
+    "wysiwyg"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "vditor": "^3.11.2"
+  },
+  "devDependencies": {
+    "vite": "^7.1.10"
+  }
+}
