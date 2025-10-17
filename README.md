@@ -6,6 +6,8 @@
 ![Vditor](https://img.shields.io/badge/Vditor-3.11.2-green.svg)
 ![Vite](https://img.shields.io/badge/Vite-7.1.10-646CFF.svg)
 
+**[🌐 在线体验](https://james-blog.top/cutemd/)** | **[📖 文档](https://github.com/your-username/cuteMD#readme)** | **[🐛 反馈问题](https://github.com/your-username/cuteMD/issues)**
+
 </div>
 
 一款简洁优雅的在线 Markdown 编辑器，基于 Vditor 构建，集成多种 AI 提供商支持，提供所见即所得的编辑体验。
@@ -13,6 +15,8 @@
 ![CuteMD Editor](https://via.placeholder.com/800x450/4A90E2/FFFFFF?text=CuteMD+Markdown+Editor)
 
 > 💡 **提示**：这是一个纯前端应用，无需安装，打开即用！所有数据都保存在本地，完全保护你的隐私。
+> 
+> 🚀 **在线演示**：访问 [https://james-blog.top/cutemd/](https://james-blog.top/cutemd/) 立即体验！
 
 ## ✨ 特性
 
@@ -32,13 +36,13 @@
 
 ### 在线使用
 
-直接打开 `index.html` 文件即可使用。
+🌐 **在线体验**：访问 [https://james-blog.top/cutemd/](https://james-blog.top/cutemd/) 立即开始使用，无需安装！
 
 ### 本地开发
 
 1. 克隆项目
 ```bash
-git clone <repository-url>
+git clone https://github.com/Aiziyou918/cute-markdown.git
 cd cuteMD
 ```
 
@@ -205,6 +209,12 @@ A: 是的，清除浏览器缓存/本地存储会删除自动保存的内容。�
 
 欢迎提交 Issue 和 Pull Request！
 
+1. Fork 本仓库
+2. 创建你的特性分支 (`git checkout -b feature/AmazingFeature`)
+3. 提交你的更改 (`git commit -m 'Add some AmazingFeature'`)
+4. 推送到分支 (`git push origin feature/AmazingFeature`)
+5. 打开一个 Pull Request
+
 ## 📝 许可证
 
 本项目采用 MIT 许可证 - 详见 [LICENSE](LICENSE) 文件
@@ -219,9 +229,15 @@ A: 是的，清除浏览器缓存/本地存储会删除自动保存的内容。�
 ## 📞 反馈与支持
 
 遇到问题或有好的建议？欢迎：
-- 📋 提交 [Issue](../../issues)
-- 💬 发起 [Discussion](../../discussions)
+- 📋 提交 [Issue](https://github.com/your-username/cuteMD/issues)
+- 💬 发起 [Discussion](https://github.com/your-username/cuteMD/discussions)
 - ⭐ 给项目点个 Star 支持我们！
+
+## 🔗 相关链接
+
+- 🌐 **在线演示**: [https://james-blog.top/cutemd/](https://james-blog.top/cutemd/)
+- 📦 **GitHub 仓库**: [https://github.com/your-username/cuteMD](https://github.com/your-username/cuteMD)
+- 📖 **快捷键文档**: [SHORTCUTS.md](SHORTCUTS.md)
 
 ---
 
