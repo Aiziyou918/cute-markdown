@@ -6,7 +6,7 @@
 ![Vditor](https://img.shields.io/badge/Vditor-3.11.2-green.svg)
 ![Vite](https://img.shields.io/badge/Vite-7.1.10-646CFF.svg)
 
-**[🌐 在线体验](https://james-blog.top/cutemd/)** | **[📖 文档](https://github.com/your-username/cuteMD#readme)** | **[🐛 反馈问题](https://github.com/your-username/cuteMD/issues)**
+**[🌐 在线体验](https://james-blog.top/cutemd/)** | **[📖 文档](https://github.com/Aiziyou918/cute-markdown#readme)** | **[🐛 反馈问题](https://github.com/Aiziyou918/cute-markdown/issues)**
 
 </div>
 
@@ -149,7 +149,7 @@ CuteMD 支持丰富的键盘快捷键，包括：
 ## 📄 项目结构
 
 ```
-cuteMD/
+cute-markdown/
 ├── index.html          # 主 HTML 文件
 ├── css/
 │   └── style.css      # 自定义样式
@@ -229,8 +229,8 @@ A: 是的，清除浏览器缓存/本地存储会删除自动保存的内容。�
 ## 📞 反馈与支持
 
 遇到问题或有好的建议？欢迎：
-- 📋 提交 [Issue](https://github.com/your-username/cuteMD/issues)
-- 💬 发起 [Discussion](https://github.com/your-username/cuteMD/discussions)
+- 📋 提交 [Issue](https://github.com/Aiziyou918/cute-markdown/issues)
+- 💬 发起 [Discussion](https://github.com/Aiziyou918/cute-markdown/discussions)
 - ⭐ 给项目点个 Star 支持我们！
 
 ## 🔗 相关链接
